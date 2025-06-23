@@ -4,7 +4,7 @@ This repository holds a Python-based project for analyzing transactional data. T
 
 The primary objective is to explore the transaction dataset to uncover patterns, trends, and key metrics.
 
-## 🗂️ Dataset
+##  Dataset
 
 The analysis is based on the `transaction_data.csv` file. This dataset contains detailed records of transactions, likely including information such as:
 * Transaction amounts
@@ -12,7 +12,7 @@ The analysis is based on the `transaction_data.csv` file. This dataset contains 
 * Product details
 * Customer information
 
-## 🛠️ Requirements
+## Requirements
 
 To run this notebook, you will need Python 3 installed, along with the following essential data science libraries:
 
@@ -26,7 +26,7 @@ You can easily install these packages using `pip`:
 pip install pandas matplotlib seaborn jupyter-notebook
 ```
 
-## 🚀 How to Use
+##  How to Use
 
 To explore this analysis on your own machine, please follow these simple steps:
 
@@ -47,7 +47,7 @@ To explore this analysis on your own machine, please follow these simple steps:
 5.  **Open the notebook:**
     Once Jupyter starts in your web browser, click on `Transaction_analysis.ipynb` to open it. You can then execute the code cells sequentially to see the analysis unfold.
 
-## 📊 Analysis Overview
+## Analysis Overview
 
 The `Transaction_analysis.ipynb` notebook provides a structured approach to understanding the transaction data:
 
